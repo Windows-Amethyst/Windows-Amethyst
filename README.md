@@ -1,3 +1,6 @@
+# OEn of the real main wunatijju wuqja wuq quantumlineoos devbss!!!!!!!!!!!!!!!!!!!!!!
+# omg omg om,g
+
 - Hi, I’m @Windows-Amethyst
 - I’m interested in Operating Systems and Video games.
 - I’m currently learning Assembly

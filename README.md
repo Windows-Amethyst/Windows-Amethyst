@@ -1,9 +1,9 @@
 # MAN
 
-- Hi, I’m @Windows-Amethyst
+- Hi, I’m @Windows-Amethyst.
 - I’m interested in Operating Systems and Video games.
-- I’m currently learning Assembly
-- I'm working on QuantumLineOS with @MohnStreuselKuchen
+- I’m currently learning Assembly.
+- I'm working on The disassembly language.
 
 <!---
 Windows-Amethyst/Windows-Amethyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

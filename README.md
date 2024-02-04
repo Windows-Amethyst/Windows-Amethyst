@@ -1,9 +1,13 @@
-# MAN
+# HELLO
 
-- Hi, I’m @Windows-Amethyst.
-- I’m interested in Operating Systems and Video games.
-- I’m currently learning Assembly.
-- I'm working on The disassembly language.
+- YO BROOOOO, IM AMETHYSTTTTT.
+- I CODE C, C++, C# AND PYTHON.
+- (please help me why is assembly so hard to learn)
+- IM LEARNING OSDEV BECAUSE I THINK IT IS INTERESTING.
+- IM ALSO LEARNING HOW TO MAKE STUFF WITH MICROCONTROLLERS.
+- I AM WORKING ON SOMETHING **BIG** AND I HOPE I DONT SCREW IT UP.
+
+
 
 <!---
 Windows-Amethyst/Windows-Amethyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

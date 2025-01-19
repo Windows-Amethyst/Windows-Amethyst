@@ -1,4 +1,4 @@
-strange specimen that codes strange stuff. working on something big! 
+strange specimen that codes strange stuff. working on something big! (all the time)
 
 
 <!---
